@@ -4,7 +4,7 @@
 
 [Epic Games Store | Download & Play PC Games, Mods, DLC & More – Epic Games](https://store.epicgames.com/?lang=en-US)
 
-![屏幕截图 2026-09-06 213506](./assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-06%20213506-1788857014571-1-1788857197758-104.png)
+![image](./assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-06%20213506-1788857014571-1-1788857197758-104.png)
 
 ![image-20260906213657053](./assets/image-20260906213657053-1788857014571-2-1788857197758-103.png)
 

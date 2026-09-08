@@ -18,11 +18,11 @@
 
 ## 方案1
 
-![image-20260906213232875](C:\Users\1\AppData\Roaming\Typora\typora-user-images\image-20260906213232875.png)
+![image-20260908171101321](./assets/image-20260908171101321.png)
 
-![image-20260906213307744](C:\Users\1\AppData\Roaming\Typora\typora-user-images\image-20260906213307744.png)
+![image-20260908171115955](./assets/image-20260908171115955.png)
 
-![image-20260906213323679](C:\Users\1\AppData\Roaming\Typora\typora-user-images\image-20260906213323679.png)
+![image-20260908171130631](./assets/image-20260908171130631.png)
 
 ## 方案2
 
